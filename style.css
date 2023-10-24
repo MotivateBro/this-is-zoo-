@@ -1,0 +1,16 @@
+.pemandangan {
+    background:transparent;
+    background-image: url(pemandangan.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: lightslategray;
+    text-decoration: none;
+}
+.icon {
+    font-size: x-large;
+}
